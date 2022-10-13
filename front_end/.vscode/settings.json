@@ -1,0 +1,10 @@
+{
+    "workbench.editor.showTabs": true,
+    "workbench.editor.enablePreview": true,
+    "launch": {
+
+
+        "configurations": [],
+        "compounds": []
+    }
+}
